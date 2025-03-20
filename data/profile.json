@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Bernardo M Pinheiro",
+  "photo": "https://avatars.githubusercontent.com/u/111240182?s=400&u=5e7b024699508c211013d05d2cf3fc2b3312823a&v=4",
+  "job": "Assistente de T.I/Administrativo na Vamo Viagens",
+  "location": "Florianópolis, SC",
+  "phone": "(48) 99949-9186",
+  "email": "berpinheiroo@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -16,7 +16,7 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
+        "name": "Typescript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
@@ -43,36 +43,30 @@
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (intermediário)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Front-end apresentação de carros",
+      "url": "https://github.com/berpinheiroo/TesteCarros.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Calculadora feita durante o curso de programação da Flit",
+      "url": "https://github.com/berpinheiroo/CalculadoraFlit.git",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Auxiliar Administrativo / Tio Jack",
+      "period": "2024/7 - 2024/9",
+      "description": "Aprendizado sobre logística e financeiro"
     },
     {
-      "name": "Software Engineering Lead / DIO",
+      "name": "Auxiliar de T.I/Administrativo / Vamo Viagens",
       "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "description": "Atendimento ao cliente, suporte técnico e administrativo"
     }
   ]
 }
